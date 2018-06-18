@@ -1,0 +1,32 @@
+{
+  "workout": [
+    {
+      "title": "Run for 5 minutes",
+      "notes": "typicode",
+      "caloriesBurntPerMinute": "25",
+      "category":"Running"
+    },
+    {
+      "title": "TRX for 5 minutes",
+      "notes": "typicode",
+      "caloriesBurntPerMinute": "20",
+      "category":"Running"
+    },
+    {
+      "title": "Weight Station 5 minutes",
+      "notes": "typicode",
+      "caloriesBurntPerMinute": "25",
+      "category":"Running"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
